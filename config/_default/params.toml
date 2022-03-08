@@ -1,7 +1,7 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "That IELTS Guide"
+title = "That IELTS Guide 🌱"
 titleSeparator = "-"
 titleAddition = "Yep! That One"
 description = "A guide for IELTS takers"
@@ -82,7 +82,7 @@ lastMod = false
   flexSearch = true
   darkMode = true
   bootStrapJs = true
-  breadCrumb = false
+  breadCrumb = true
   highLight = true
   kaTex = false
   multilingualMode = false

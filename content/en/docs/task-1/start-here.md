@@ -14,7 +14,7 @@ toc: true
 url: "/"
 ---
 
-Welcome to That IELTS Guide. I cooked up this one in a day because I suddenly realized that my students could benefit from a guide that could be accessed anywhere.
+Welcome to That IELTS Guide! 👋 I cooked up this one in a day because I suddenly realized that my students could benefit from _a guide that could be accessed anywhere_.
 
 You can use 🔎 `Search` to find what you need and I hope it will pop up.
 
