@@ -1,56 +1,28 @@
 [[docs]]
-  name = "Task 1"
+  name = "Introduction"
   weight = 10
+  identifier = "introduction"
+  url = "/docs/introduction/"
+
+[[docs]]
+  name = "Task 1"
+  weight = 40
   identifier = "task-1"
   url = "/docs/task-1/"
 
-[[docs]]
-  name = "Describing numbers"
-  weight = 20
-  identifier = "describing-numbers"
-  url = "/docs/task-1/describing-numbers"
-  parent = "task-1"
-
-[[docs]]
-  name = "Comparing numbers"
-  weight = 40
-  identifier = "comparing-numbers"
-  url = "/docs/task-1/comparing-numbers"
-  parent = "task-1"
-
-[[docs]]
-  name = "Describing trends"
-  weight = 60
-  identifier = "describing-trends"
-  url = "/docs/task-1/describing-trends"
-  parent = "task-1"
-
-# [[docs]]
-#   name = "Task 2"
-#   weight = 20
-#   identifier = "task-2"
-#   url = "/docs/task-2/"
-
-# [[guide]]
-#   name = "Lorem"
-#   weight = 10
-#   identifier = "lorem"
-#   url = "/guide/lorem/"
-
-# [[tutorial]]
-#   name = "Lorem"
-#   weight = 10
-#   identifier = "lorem"
-#   url = "/tutorial/lorem/"
-
 # [[main]]
-#   name = "Guide"
+#   name = "Docs"
 #   url = "/docs/prologue/introduction/"
 #   weight = 10
 
 # [[main]]
-#   name = "ai-eo"
-#   url = "https://ai-eo.com"
+#   name = "Tutorial"
+#   url = "/tutorial/lorem/ipsum/"
+#   weight = 15
+
+# [[main]]
+#   name = "Blog"
+#   url = "/blog/"
 #   weight = 20
 
 # [[main]]

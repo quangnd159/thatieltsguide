@@ -4,7 +4,7 @@
 title = "That IELTS Guide 🌱"
 titleSeparator = "-"
 titleAddition = "Yep! That One"
-description = "A guide for IELTS takers"
+description = "That IELTS Guide provides BS-free instructions and tips for IELTS takers."
 
 ## Documentation
 # docsVersion = "0.3"
@@ -16,8 +16,8 @@ domainTLD = "doks.netlify.app"
 titleHome = "Doks Theme"
 
 ## Twitter Cards
-# twitterSite = "@getdoks"
-# twitterCreator = "@henkverlinde"
+twitterSite = "@getdoks"
+twitterCreator = "@henkverlinde"
 
 ## JSON-LD
 # schemaType = "Person"
@@ -34,7 +34,7 @@ schemaLogoHeight = 512
 schemaImage = "doks.png"
 schemaImageWidth = 1280
 schemaImageHeight = 640
-#schemaTwitter = "https://twitter.com/getdoks"
+schemaTwitter = "https://twitter.com/getdoks"
 schemaLinkedIn = ""
 schemaGitHub = "https://github.com/h-enk/doks"
 schemaSection = "blog"
@@ -92,4 +92,4 @@ lastMod = false
 [menu]
   [menu.section]
     auto = true
-    collapsibleSidebar = true
+    collapsibleSidebar = false
