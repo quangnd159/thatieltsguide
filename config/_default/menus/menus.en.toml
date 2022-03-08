@@ -1,14 +1,14 @@
 [[docs]]
-  name = "Task 1"
+  name = "Prologue"
   weight = 10
-  identifier = "task 1"
-  url = "/docs/task 1/"
+  identifier = "prologue"
+  url = "/docs/prologue/"
 
 [[docs]]
-  name = "Task 2"
+  name = "Help"
   weight = 60
-  identifier = "task 2"
-  url = "/docs/task 2/"
+  identifier = "help"
+  url = "/docs/help/"
 
 # [[docs]]
 #   name = "Lorem"
