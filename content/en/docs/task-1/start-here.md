@@ -11,11 +11,8 @@ menu:
     parent: "task-1"
 weight: 10
 toc: true
-url: "/"
 ---
 
-Welcome to That IELTS Guide! 👋 I cooked up this one in a day because I suddenly realized that my students could benefit from _a guide that could be accessed anywhere_.
-
-You can use 🔎 `Search` to find what you need and I hope it will pop up.
+You can play with the menu to see if there's anything cool. You can also use 🔎 `Search` to find what you need and I hope it will pop up.
 
 IELTS needn't be hard. With practice and patience, you'll nail it. Good luck! 🍀
