@@ -1,4 +1,4 @@
-baseurl = "http://thatieltsguide.com/task-1/start-here"
+baseurl = "/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
