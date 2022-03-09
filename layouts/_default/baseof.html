@@ -2,7 +2,7 @@
 <html lang="{{ .Site.LanguageCode | default "en" }}">
   {{ partial "head/head.html" . }}
   {{ if eq .Kind "home" -}}
-    {{ .Scratch.Set "class" "home" -}}
+    {{ .Scratch.Set "class" "home d-flex flex-column min-vh-100" -}}
   {{ else if eq .Kind "404" -}}
     {{ .Scratch.Set "class" "error404" -}}
   {{ else if eq .Kind "page" -}}
