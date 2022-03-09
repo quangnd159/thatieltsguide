@@ -1,5 +1,5 @@
 ---
-title: "Subject + Be"
+title: "subject + be"
 description: ""
 lead: ""
 date: 2022-03-08T23:57:19+07:00
@@ -8,12 +8,14 @@ draft: false
 images: []
 menu:
   docs:
-    parent: ""
-weight: 999
+    parent: "describing-numbers"
+weight: 30
 toc: false
 ---
 
-{{< alert icon="🌱" context="success" text="(subject) be (number)" />}}
+{{< alert icon="🌱" context="success" >}}
+**(subject) be (number)**
+{{< /alert >}}
 
 **Examples**
 

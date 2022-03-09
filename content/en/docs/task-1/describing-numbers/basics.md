@@ -1,5 +1,5 @@
 ---
-title: "Basics"
+title: "Basics 🐣"
 description: ""
 lead: ""
 date: 2022-03-08T23:25:58+07:00
@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   docs:
-    parent: ""
+    parent: "describing-numbers"
 weight: 20
 toc: false
 ---
@@ -17,10 +17,14 @@ toc: false
 
 In this guide, when you see **(subject)**, it refers to the type of number.
 
+
+{{< alert context="success" >}}
 - the number of + plural
 - the amount of + uncountable noun
 - the percentage of + plural/uncountable noun
 - the figure for
+{{< /alert >}}
+
 
 **(subject)** can also be anything that means a number, an amount or a percentage.
 

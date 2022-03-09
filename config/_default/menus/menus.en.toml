@@ -10,6 +10,13 @@
   identifier = "task-1"
   url = "/docs/task-1/"
 
+[[docs]]
+  name = "Describing numbers"
+  weight = 50
+  identifier = "describing-numbers"
+  url = "/docs/task-1/describing-numbers"
+  parent = "task-1"
+
 # [[main]]
 #   name = "Docs"
 #   url = "/docs/prologue/introduction/"
