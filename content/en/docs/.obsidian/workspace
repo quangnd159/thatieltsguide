@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "task-1/describing-trends/horizontal-fluctuation.md",
+            "file": "task-1/describing-trends/lowest-highest.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "task-1/describing-trends/horizontal-fluctuation.md",
+                "file": "task-1/describing-trends/lowest-highest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "6a427e503c04fba6",
   "lastOpenFiles": [
-    "task-1/describing-trends/horizontal-fluctuation.md",
-    "task-1/describing-trends/trend-noun.md",
-    "task-1/describing-trends/see.md",
-    "task-1/describing-trends/halve.md",
-    "task-1/describing-trends/double-verb.md",
-    "task-1/describing-trends/fold.md",
-    "task-1/describing-trends/factor.md",
+    "task-1/describing-trends/lowest-highest.md",
+    "task-1/describing-trends/return-2.md",
+    "task-1/describing-trends/return-1.md",
+    "task-1/describing-trends/overtake-2.md",
+    "task-1/describing-trends/overtake-1.md",
+    "task-1/describing-trends/stable.md",
+    "task-1/describing-trends/no-change.md",
     "task-1/describing-trends/this-point.md",
-    "task-1/describing-trends/trend-verb.md",
-    "task-1/comparing-numbers/compared-to.md"
+    "task-1/describing-trends/peak-low.md",
+    "task-1/describing-trends/upward-downward-fluctuation.md"
   ]
 }
