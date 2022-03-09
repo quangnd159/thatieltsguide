@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "task-1/describing-trends/fluctuate.md",
+            "file": "task-1/describing-trends/horizontal-fluctuation.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "task-1/describing-trends/fluctuate.md",
+                "file": "task-1/describing-trends/horizontal-fluctuation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,14 +89,14 @@
   },
   "active": "6a427e503c04fba6",
   "lastOpenFiles": [
-    "task-1/describing-trends/fluctuate.md",
+    "task-1/describing-trends/horizontal-fluctuation.md",
+    "task-1/describing-trends/trend-noun.md",
+    "task-1/describing-trends/see.md",
     "task-1/describing-trends/halve.md",
     "task-1/describing-trends/double-verb.md",
     "task-1/describing-trends/fold.md",
     "task-1/describing-trends/factor.md",
-    "task-1/describing-trends/see.md",
     "task-1/describing-trends/this-point.md",
-    "task-1/describing-trends/trend-noun.md",
     "task-1/describing-trends/trend-verb.md",
     "task-1/comparing-numbers/compared-to.md"
   ]
