@@ -10,7 +10,7 @@ menu:
   docs:
     parent: "describing-numbers"
 weight: 20
-toc: false
+toc: true
 ---
 
 ## Referring to a number
@@ -36,3 +36,12 @@ In this guide, when you see **(subject)**, it refers to the type of number.
 | the percentage of people aged 18-24 who attended concerts | the attendance rate of people aged 18-24 / the 18-24 age group's attendance rate |
 | the percentage of adutls who donated to charity           | the level of donation among adults                                               |
 | the percentage of households with a telephone             | telephone ownership                                                              |
+
+## List of trend verbs and nouns
+
+| Trend verb    | Trend noun                |
+|---------------|---------------------------|
+| increase      | an increase               |
+| decrease      | a decrease                |
+| fluctuate     | fluctuation               |
+| remain stable | no change / little change |

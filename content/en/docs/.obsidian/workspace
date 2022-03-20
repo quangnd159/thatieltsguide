@@ -9,19 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "task-2/common-problems.md",
-            "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "20ac6830dcce3ed0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "task-1/describing-trends/fold.md",
+            "file": "task-1/describing-numbers/basics.md",
             "mode": "source",
             "source": true
           }
@@ -81,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "task-2/common-problems.md",
+                "file": "task-1/describing-numbers/basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +89,15 @@
   },
   "active": "6a427e503c04fba6",
   "lastOpenFiles": [
+    "task-1/describing-numbers/basics.md",
+    "task-1/comparing-numbers/while.md",
+    "task-1/describing-numbers/multiple-subjects.md",
+    "task-2/stuff-you-gotta-know.md",
+    "task-2/frequently-misspelled.md",
+    "task-2/_index.md",
     "task-2/common-problems.md",
     "task-1/describing-trends/fold.md",
     "task-1/describing-trends/double-verb.md",
-    "task-2/frequently-misspelled.md",
-    "task-1/describing-trends/lowest-highest.md",
-    "task-1/describing-trends/no-change.md",
-    "task-1/describing-trends/upward-downward-fluctuation.md",
-    "task-1/describing-trends/trend-verb.md",
-    "task-1/describing-trends/trend-noun.md",
-    "task-1/describing-trends/this-point.md"
+    "task-1/describing-trends/lowest-highest.md"
   ]
 }

@@ -15,6 +15,8 @@ toc: false
 
 ~~goverment~~ → **government**
 
+~~enviroment~~ → **environment**
+
 ~~slove~~ → **solve**
 
 ~~develope~~ → **develop**
