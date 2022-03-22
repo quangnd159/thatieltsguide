@@ -24,7 +24,15 @@ toc: true
 	- to pay for public services (e.g. education, healthcare, transportation)
 	- to provide protection (e.g. army, police)
 	- to build insfrastructure (e.g. roads, power supplies)
+	- to make technological progress
 	- to change people's behavior (e.g. putting high taxes on tobacco to reduce smoking)
+	- to support the disadvantaged (e.g. the poor, the disabled)
 - Governments also raise or lower taxes to help their country's economy.
+- Some drawbacks 😟
+	- Taxes may discourage people from working hard.
+	- The way governments impose taxes can be unfair.
+	- People and businesses may try to avoid paying taxes.
+	- People have less money to spend on goods and services.
+		- And this is not good for businesses.
 
 **Source**: *Britannica Kids*
