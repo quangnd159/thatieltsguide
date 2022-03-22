@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "task-2/stuff-you-gotta-know.md",
+            "file": "task-1/advanced-stuff/next come.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "task-2/stuff-you-gotta-know.md",
+                "file": "task-1/advanced-stuff/next come.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "6a427e503c04fba6",
   "lastOpenFiles": [
+    "task-1/advanced-stuff/next come.md",
+    "task-1/describing-numbers/number-first.md",
     "task-2/stuff-you-gotta-know.md",
+    "task-2/common-problems.md",
+    "task-2/frequently-misspelled.md",
     "task-1/describing-numbers/basics.md",
     "task-1/comparing-numbers/while.md",
     "task-1/describing-numbers/multiple-subjects.md",
-    "task-2/frequently-misspelled.md",
     "task-2/_index.md",
-    "task-2/common-problems.md",
-    "task-1/describing-trends/fold.md",
-    "task-1/describing-trends/double-verb.md",
-    "task-1/describing-trends/lowest-highest.md"
+    "task-1/describing-trends/fold.md"
   ]
 }
