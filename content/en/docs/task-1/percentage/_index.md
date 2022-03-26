@@ -1,10 +1,10 @@
 ---
-title: "〽️ Trends"
-description: "Language, structures, patterns"
+title: "Percentage"
+description: "Dealing with percentages"
 lead: ""
 date: 2020-10-06T08:48:45+00:00
 lastmod: 2020-10-06T08:48:45+00:00
 draft: false
-weight: 30
+weight: 40
 images: []
 ---

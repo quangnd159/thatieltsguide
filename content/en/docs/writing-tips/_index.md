@@ -1,10 +1,10 @@
 ---
-title: "〽️ Trends"
-description: "Language, structures, patterns"
+title: "Writing Tips 💡"
+description: "Generally writing tips"
 lead: ""
 date: 2020-10-06T08:48:45+00:00
 lastmod: 2020-10-06T08:48:45+00:00
 draft: false
-weight: 30
+weight: 5
 images: []
 ---

@@ -1,5 +1,5 @@
 ---
-title: "common problems"
+title: "Common problems"
 description: ""
 lead: ""
 date: 2022-03-08T23:25:58+07:00
