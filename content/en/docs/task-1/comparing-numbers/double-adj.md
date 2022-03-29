@@ -8,8 +8,8 @@ draft: false
 images: []
 menu:
   docs:
-    parent: "describing-trends"
-weight: 215
+    parent: "comparing-numbers"
+weight: 85
 toc: false
 ---
 
