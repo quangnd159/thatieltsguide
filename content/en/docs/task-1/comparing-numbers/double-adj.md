@@ -21,7 +21,7 @@ toc: false
 
 {{< alert icon="💡" context="warning" >}}
 **NOTE:**
-- This structure describes the same things as the [twice](./../twice-1) structure. once.
+- This structure describes the same thing as the [twice](./../twice-1) structure.
 - Besides _double_, we have _triple_ (x3) and _quadruple_ (x4).
 - ❗️ These words, when they are verbs, are used differently and mean different things.
 {{< /alert >}}
