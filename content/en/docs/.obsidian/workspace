@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "writing-tips/basics.md",
+            "file": "writing-tips/essentials.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "writing-tips/basics.md",
+                "file": "writing-tips/essentials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "2131a527222b5faa",
   "lastOpenFiles": [
-    "writing-tips/basics.md",
+    "writing-tips/essentials.md",
+    "writing-tips/_index.md",
+    "introduction/_index.md",
+    "task-1/percentage/_index.md",
+    "task-1/advanced-stuff/_index.md",
+    "task-2/_index.md",
     "task-1/comparing-numbers/double-adj.md",
     "task-1/comparing-numbers/twice-2.md",
     "task-1/comparing-numbers/twice-1.md",
-    "task-1/describing-trends/fold.md",
-    "task-1/describing-trends/double-verb.md",
-    "task-1/describing-trends/factor.md",
-    "task-1/describing-trends/halve.md",
-    "task-1/percentage/basics.md",
-    "writing-tips/_index.md"
+    "task-1/describing-trends/fold.md"
   ]
 }
