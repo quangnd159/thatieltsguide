@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "task-1/comparing-numbers/double-adj.md",
+            "file": "writing-tips/basics.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "task-1/comparing-numbers/double-adj.md",
+                "file": "writing-tips/basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "2131a527222b5faa",
   "lastOpenFiles": [
+    "writing-tips/basics.md",
     "task-1/comparing-numbers/double-adj.md",
     "task-1/comparing-numbers/twice-2.md",
     "task-1/comparing-numbers/twice-1.md",
@@ -96,7 +97,6 @@
     "task-1/describing-trends/double-verb.md",
     "task-1/describing-trends/factor.md",
     "task-1/describing-trends/halve.md",
-    "writing-tips/basics.md",
     "task-1/percentage/basics.md",
     "writing-tips/_index.md"
   ]
