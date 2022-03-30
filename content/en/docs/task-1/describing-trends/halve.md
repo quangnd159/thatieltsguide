@@ -17,6 +17,12 @@ toc: false
 **(subject) halve [from... to...]**
 {{< /alert >}}
 
+{{< alert icon="💡" context="warning" >}}
+**NOTE:** You can also write _decrease by 50%_ instead of _halve_
+{{< /alert >}}
+
 **Examples**
 
 _Between 2005 and 2007, the number of burglaries halved._
+
+_Between 2005 and 2007, the number of burglaries decreased by 50%._
