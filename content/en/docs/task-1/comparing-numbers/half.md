@@ -18,13 +18,6 @@ toc: false
 - **description of A, (which was) half of B.**
 {{< /alert >}}
 
-{{< alert icon="💡" context="warning" >}}
-**NOTE:**
-- This structure describes the same thing as the [twice](./../twice-1) structure.
-- Besides _double_, we have _triple_ (x3) and _quadruple_ (x4).
-- ❗️ These words, when they are verbs, are used differently and mean different things.
-{{< /alert >}}
-
 **Examples**
 
 _The number of women who played football was (only) half of that of men, at 300 and 620._
