@@ -17,6 +17,12 @@ toc: false
 **(subject) double/triple [from... to...]**
 {{< /alert >}}
 
+{{< alert icon="💡" context="warning" >}}
+**NOTE:**
+- This structure means "to become twice as much or as many", like [fold](../fold).
+- ❗️ These words, when they are [adjectives](../../comparing-numbers/double-adj), are used differently and mean different things.
+{{< /alert >}}
+
 **Examples**
 
 _Between 1974 and 1990, the amount of pipeline-transported goods tripled._

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "task-1/comparing-numbers/half.md",
+            "file": "task-1/describing-trends/double-verb.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "task-1/comparing-numbers/half.md",
+                "file": "task-1/describing-trends/double-verb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "2131a527222b5faa",
   "lastOpenFiles": [
+    "task-1/describing-trends/double-verb.md",
+    "task-1/comparing-numbers/double-adj.md",
+    "task-1/comparing-numbers/compared-to.md",
     "task-1/comparing-numbers/half.md",
     "task-1/describing-trends/halve.md",
     "task-1/describing-trends/fold.md",
-    "task-1/comparing-numbers/double-adj.md",
     "writing-tips/essentials.md",
     "writing-tips/_index.md",
     "introduction/_index.md",
-    "task-1/percentage/_index.md",
-    "task-1/advanced-stuff/_index.md",
-    "task-2/_index.md"
+    "task-1/percentage/_index.md"
   ]
 }
