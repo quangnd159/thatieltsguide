@@ -13,9 +13,9 @@ weight: 30
 toc: false
 ---
 
-{{< alert icon="🌱" context="success" >}}
-**(subject) be (number)**
-{{< /alert >}}
+{{< spoiler text="🌱 Structure" >}}
+- (subject) be (number)
+{{< /spoiler >}}
 
 **Examples**
 

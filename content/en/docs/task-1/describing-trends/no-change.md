@@ -13,11 +13,11 @@ weight: 270
 toc: false
 ---
 
-{{< alert icon="🌱" context="success" >}}
-**(subject) show no/little change [, standing at (number)]**
-{{< /alert >}}
+{{< spoiler text="🌱 Structure" >}}
+- (subject) show no/little change [, standing at (number)]
+{{< /spoiler >}}
 
-{{< alert icon="💡" context="warning" >}}
+{{< alert icon="📝" >}}
 **NOTE:** It's _no change_, **not** ~~a little change~~
 {{< /alert >}}
 

@@ -13,12 +13,12 @@ weight: 230
 toc: false
 ---
 
-{{< alert icon="🌱" context="success" >}}
-- **(subject) fluctuate between... and...**
-- **there be fluctuation in (subject), between... and...**
-{{< /alert >}}
+{{< spoiler text="🌱 Structure" >}}
+- (subject) fluctuate between... and...
+- there be fluctuation in (subject), between... and...
+{{< /spoiler >}}
 
-{{< alert icon="💡" context="warning" >}}
+{{< alert icon="📝" >}}
 **NOTE:** _between (lowest value) and (highest value)_
 {{< /alert >}}
 

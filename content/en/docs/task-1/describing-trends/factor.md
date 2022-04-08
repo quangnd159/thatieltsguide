@@ -13,11 +13,11 @@ weight: 190
 toc: false
 ---
 
-{{< alert icon="🌱" context="success" >}}
-**(subject) trend verb _by a factor of_**
-{{< /alert >}}
+{{< spoiler text="🌱 Structure" >}}
+- (subject) trend verb _by a factor of_
+{{< /spoiler >}}
 
-{{< alert icon="💡" context="warning" >}}
+{{< alert icon="📝" >}}
 **NOTE:**
 - Can be used with both increase and decrease.
 - If A increased from 3 to 12, it increased by a factor of 4.

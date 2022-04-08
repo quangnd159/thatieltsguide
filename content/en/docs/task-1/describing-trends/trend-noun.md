@@ -13,11 +13,11 @@ weight: 160
 toc: false
 ---
 
-{{< alert icon="🌱" context="success" >}}
-**there be a/an trend noun <u>of</u> (difference) <u>in</u> (subject) [,from... to...]**
-{{< /alert >}}
+{{< spoiler text="🌱 Structure" >}}
+- there be a/an trend noun <u>of</u> (difference) <u>in</u> (subject) [,from... to...]
+{{< /spoiler >}}
 
-{{< alert icon="💡" context="warning" >}}
+{{< alert icon="📝" >}}
 **NOTE:** Pay attention to the prepositions in this structure.
 {{< /alert >}}
 

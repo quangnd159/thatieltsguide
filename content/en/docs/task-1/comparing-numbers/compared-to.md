@@ -13,11 +13,11 @@ weight: 140
 toc: false
 ---
 
-{{< alert icon="🌱" context="success" >}}
-**(describe X), compared to (number) of/for/in/etc. Y**
-{{< /alert >}}
+{{< spoiler text="🌱 Structure" >}}
+- (describe X), compared to (number) of/for/in/etc. Y
+{{< /spoiler >}}
 
-{{< alert icon="💡" context="warning" >}}
+{{< alert icon="📝" >}}
 **NOTE:** The preposition depends on what Y is. Sometimes it isn't needed.
 {{< /alert >}}
 

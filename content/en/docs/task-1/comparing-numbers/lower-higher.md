@@ -13,9 +13,9 @@ weight: 130
 toc: false
 ---
 
-{{< alert icon="🌱" context="success" >}}
-**X be higher/lower than Y [, at (number) and (number) respectively]**
-{{< /alert >}}
+{{< spoiler text="🌱 Structure" >}}
+- X be higher/lower than Y [, at (number) and (number) respectively]
+{{< /spoiler >}}
 
 **Examples**
 

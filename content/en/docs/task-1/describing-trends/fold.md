@@ -13,11 +13,11 @@ weight: 200
 toc: false
 ---
 
-{{< alert icon="🌱" context="success" >}}
-**(subject) increase + twofold/threefold/etc.**
-{{< /alert >}}
+{{< spoiler text="🌱 Structure" >}}
+- (subject) increase + twofold/threefold/etc.
+{{< /spoiler >}}
 
-{{< alert icon="💡" context="warning" >}}
+{{< alert icon="📝" >}}
 **NOTE:**
 - Can only be used with increases.
 - If A is 5, and it increases to 15, can say it increases threefold.

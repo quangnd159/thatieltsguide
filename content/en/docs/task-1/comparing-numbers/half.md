@@ -13,10 +13,10 @@ weight: 86
 toc: false
 ---
 
-{{< alert icon="🌱" context="success" >}}
-- **A be half of B**
-- **description of A, (which was) half of B.**
-{{< /alert >}}
+{{< spoiler text="🌱 Structure" >}}
+- A be half of B
+- description of A, (which was) half of B.
+{{< /spoiler >}}
 
 **Examples**
 

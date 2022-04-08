@@ -13,11 +13,11 @@ weight: 120
 toc: false
 ---
 
-{{< alert icon="🌱" context="success" >}}
-**(describe X), while the figure for Y be lower/higher, at (number)**
-{{< /alert >}}
+{{< spoiler text="🌱 Structure" >}}
+- (describe X), while the figure for Y be lower/higher, at (number)
+{{< /spoiler >}}
 
-{{< alert icon="💡" context="warning" >}}
+{{< alert icon="📝" >}}
 **NOTE:** You can also compare three figures. See examples.
 {{< /alert >}}
 

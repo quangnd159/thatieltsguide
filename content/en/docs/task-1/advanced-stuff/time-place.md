@@ -13,12 +13,12 @@ weight: 520
 toc: false
 ---
 
-{{< alert icon="🌱" context="success" >}}
+{{< spoiler text="🌱 Structure" >}}
 - **(time) see + trend noun**
 - **(time) see + (subject) + bare trend verb**
-{{< /alert >}}
+{{< /spoiler >}}
 
-{{< alert icon="💡" context="warning" >}}
+{{< alert icon="📝" >}}
 **NOTE:**
 - Use the preposition correctly.
 - A place can be the subject in this structure instead of (time). See samples.

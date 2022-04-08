@@ -13,11 +13,11 @@ weight: 220
 toc: false
 ---
 
-{{< alert icon="🌱" context="success" >}}
-**(subject) halve [from... to...]**
-{{< /alert >}}
+{{< spoiler text="🌱 Structure" >}}
+- (subject) halve [from... to...]
+{{< /spoiler >}}
 
-{{< alert icon="💡" context="warning" >}}
+{{< alert icon="📝" >}}
 **NOTE:** You can also write _decrease by 50%_ instead of _halve_
 {{< /alert >}}
 

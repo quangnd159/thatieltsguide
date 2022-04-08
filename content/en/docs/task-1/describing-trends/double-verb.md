@@ -13,11 +13,11 @@ weight: 210
 toc: false
 ---
 
-{{< alert icon="🌱" context="success" >}}
-**(subject) double/triple [from... to...]**
-{{< /alert >}}
+{{< spoiler text="🌱 Structure" >}}
+- (subject) double/triple [from... to...]
+{{< /spoiler >}}
 
-{{< alert icon="💡" context="warning" >}}
+{{< alert icon="📝" >}}
 **NOTE:**
 - This structure means "to become twice as much or as many", like [fold](../fold).
 - ❗️ These words, when they are [adjectives](../../comparing-numbers/double-adj), are used differently and mean different things.

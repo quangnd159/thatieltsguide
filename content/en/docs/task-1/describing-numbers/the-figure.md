@@ -13,11 +13,11 @@ weight: 40
 toc: false
 ---
 
-{{< alert icon="🌱" context="success" >}}
-**the figure for (item) be (number)**
-{{< /alert >}}
+{{< spoiler text="🌱 Structure" >}}
+- the figure for (item) be (number)
+{{< /spoiler >}}
 
-{{< alert icon="💡" context="warning" >}}
+{{< alert icon="📝" >}}
 **NOTE:** As seen in the examples below, the second version is shorter. When using "the figure for", we (usually) only need to keep the item/category/group that is being compared with others.
 {{< /alert >}}
 

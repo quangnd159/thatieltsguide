@@ -13,9 +13,9 @@ weight: 260
 toc: false
 ---
 
-{{< alert icon="🌱" context="success" >}}
-**(subject) remain stable [at (number)]**
-{{< /alert >}}
+{{< spoiler text="🌱 Structure" >}}
+- (subject) remain stable [at (number)]
+{{< /spoiler >}}
 
 **Examples**
 

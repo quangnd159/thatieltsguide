@@ -13,9 +13,9 @@ weight: 300
 toc: false
 ---
 
-{{< alert icon="🌱" context="success" >}}
-**(subject) trend verb back to the (year) figure of (number)**
-{{< /alert >}}
+{{< spoiler text="🌱 Structure" >}}
+- (subject) trend verb back to the (year) figure of (number)
+{{< /spoiler >}}
 
 **Examples**
 

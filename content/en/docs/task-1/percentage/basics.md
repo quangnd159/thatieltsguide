@@ -13,6 +13,10 @@ weight: 320
 toc: false
 ---
 
+## What is a percentage?
+
+A percentage is _the number, amount, rate of something, expressed as if it is part of a total which is 100_ (Oxford Advanced Learner's Dictionary).
+
 ## Synonyms for "percentage"
 
 - percentage

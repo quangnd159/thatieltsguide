@@ -13,9 +13,9 @@ weight: 110
 toc: false
 ---
 
-{{< alert icon="🌱" context="success" >}}
-**X and Y be equal, at (number)**
-{{< /alert >}}
+{{< spoiler text="🌱 Structure" >}}
+- X and Y be equal, at (number)
+{{< /spoiler >}}
 
 **Examples**
 

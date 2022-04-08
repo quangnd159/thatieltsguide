@@ -13,9 +13,9 @@ weight: 100
 toc: false
 ---
 
-{{< alert icon="🌱" context="success" >}}
-**(describe X). This be equal to the figure for Y**
-{{< /alert >}}
+{{< spoiler text="🌱 Structure" >}}
+- (describe X). This be equal to the figure for Y
+{{< /spoiler >}}
 
 **Examples**
 

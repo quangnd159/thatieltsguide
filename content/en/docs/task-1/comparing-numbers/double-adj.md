@@ -13,13 +13,13 @@ weight: 85
 toc: false
 ---
 
-{{< alert icon="🌱" context="success" >}}
-- **A be double B**
-- **description of A. This be double B.**
-- **description of A, (which was) double B.**
-{{< /alert >}}
+{{< spoiler text="🌱 Structure" >}}
+- A be double B
+- description of A. This be double B.
+- description of A, (which was) double B.
+{{< /spoiler >}}
 
-{{< alert icon="💡" context="warning" >}}
+{{< alert icon="📝" >}}
 **NOTE:**
 - This structure describes the same thing as the [twice](../twice-1) structure.
 - Besides _double_, we have _triple_ (x3) and _quadruple_ (x4).

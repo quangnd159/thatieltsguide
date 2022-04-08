@@ -13,11 +13,11 @@ weight: 180
 toc: false
 ---
 
-{{< alert icon="🌱" context="success" >}}
-**(time) see + trend noun**
-{{< /alert >}}
+{{< spoiler text="🌱 Structure" >}}
+- (time) see + trend noun
+{{< /spoiler >}}
 
-{{< alert icon="💡" context="warning" >}}
+{{< alert icon="📝" >}}
 **NOTE:**
 - The rest is similar to _trend noun_ structure.
 - (time) here must be a noun or a noun phrase.

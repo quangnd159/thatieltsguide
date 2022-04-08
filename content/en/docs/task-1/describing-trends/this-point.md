@@ -13,11 +13,11 @@ weight: 170
 toc: false
 ---
 
-{{< alert icon="🌱" context="success" >}}
-**there be a/an upward/downward trend in (subject) until (time). At this point, the figure stand at (number)**
-{{< /alert >}}
+{{< spoiler text="🌱 Structure" >}}
+- there be a/an upward/downward trend in (subject) until (time). At this point, the figure stand at (number)
+{{< /spoiler >}}
 
-{{< alert icon="💡" context="warning" >}}
+{{< alert icon="📝" >}}
 **NOTE:** Make sure "stand" has correct form.
 {{< /alert >}}
 

@@ -27,6 +27,6 @@ Do you think that living in zoos has more advantages or more disadvantages **for
 
 💬 This is not an advantage **for animals**.
 
-{{< alert icon="💡" context="warning" >}}
+{{< alert icon="📝" >}}
 Read the task carefully. Make sure you fully grasp what it asks you to write about.
 {{< /alert >}}

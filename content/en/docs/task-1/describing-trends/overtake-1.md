@@ -13,11 +13,11 @@ weight: 280
 toc: false
 ---
 
-{{< alert icon="🌱" context="success" >}}
-**(subject) overtake (subject) [in (time)] and reach (number) in (time)**
-{{< /alert >}}
+{{< spoiler text="🌱 Structure" >}}
+- (subject) overtake (subject) [in (time)] and reach (number) in (time)
+{{< /spoiler >}}
 
-{{< alert icon="💡" context="warning" >}}
+{{< alert icon="📝" >}}
 **NOTE:** A overtaking B means A becomes greater than B.
 {{< /alert >}}
 

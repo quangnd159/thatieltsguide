@@ -13,11 +13,11 @@ weight: 250
 toc: false
 ---
 
-{{< alert icon="🌱" context="success" >}}
-- **(subject) peak at (number)**
-- **(subject) reach a peak of (number)**
-- **(subject) hit a low of (number)**
-{{< /alert >}}
+{{< spoiler text="🌱 Structure" >}}
+- (subject) peak at (number)
+- (subject) reach a peak of (number)
+- (subject) hit a low of (number)
+{{< /spoiler >}}
 
 **Examples**
 

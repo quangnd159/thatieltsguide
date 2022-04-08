@@ -18,7 +18,7 @@ toc: true
 In this guide, when you see **(subject)**, it refers to the type of number.
 
 
-{{< alert context="success" >}}
+{{< alert >}}
 - the number of + plural
 - the amount of + uncountable noun
 - the percentage of + plural/uncountable noun

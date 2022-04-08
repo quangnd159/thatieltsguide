@@ -13,11 +13,11 @@ weight: 150
 toc: false
 ---
 
-{{< alert icon="🌱" context="success" >}}
-**(subject) trend verb from... to...**
-{{< /alert >}}
+{{< spoiler text="🌱 Structure" >}}
+- (subject) trend verb from... to...
+{{< /spoiler >}}
 
-{{< alert icon="💡" context="warning" >}}
+{{< alert icon="📝" >}}
 **NOTE:** "from 80 to 110" = "by 30"
 {{< /alert >}}
 

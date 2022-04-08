@@ -13,9 +13,9 @@ weight: 320
 toc: false
 ---
 
-{{< alert icon="🌱" context="success" >}}
-**(subject) trend verb to (number), which was the lowest/highest figure in this (year) / among the (items/groups)**
-{{< /alert >}}
+{{< spoiler text="🌱 Structure" >}}
+- (subject) trend verb to (number), which was the lowest/highest figure in this (year) / among the (items/groups)
+{{< /spoiler >}}
 
 **Examples**
 

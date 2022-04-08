@@ -13,9 +13,9 @@ weight: 240
 toc: false
 ---
 
-{{< alert icon="🌱" context="success" >}}
-**Although there be some fluctuation, (subject) increase/decrease from... to...**
-{{< /alert >}}
+{{< spoiler text="🌱 Structure" >}}
+- Although there be some fluctuation, (subject) increase/decrease from... to...
+{{< /spoiler >}}
 
 **Examples**
 

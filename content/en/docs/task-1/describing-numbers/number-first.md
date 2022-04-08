@@ -13,11 +13,11 @@ weight: 60
 toc: false
 ---
 
-{{< alert icon="🌱" context="success" >}}
-**(number) suitable verb**
-{{< /alert >}}
+{{< spoiler text="🌱 Structure" >}}
+- (number) suitable verb
+{{< /spoiler >}}
 
-{{< alert icon="💡" context="warning" >}}
+{{< alert icon="📝" >}}
 **NOTE:** This is a very natural way to talk about numbers.
 {{< /alert >}}
 

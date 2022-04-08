@@ -13,10 +13,10 @@ weight: 510
 toc: false
 ---
 
-{{< alert icon="🌱" context="success" >}}
-- **(subject) + stand at / be + (number)**
-- **(subject) + trend verb**
-{{< /alert >}}
+{{< spoiler text="🌱 Structure" >}}
+- (subject) + stand at / be + (number)
+- (subject) + trend verb
+{{< /spoiler >}}
 
 **Examples from authentic sources**
 

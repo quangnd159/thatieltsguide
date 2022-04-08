@@ -13,11 +13,11 @@ weight: 70
 toc: false
 ---
 
-{{< alert icon="🌱" context="success" >}}
-**A be twice as high as B [, at (number) and (number) respectively].**
-{{< /alert >}}
+{{< spoiler text="🌱 Structure" >}}
+- A be twice as high as B [, at (number) and (number) respectively].
+{{< /spoiler >}}
 
-{{< alert icon="💡" context="warning" >}}
+{{< alert icon="📝" >}}
 **NOTE:**
 - twice → three times → four times etc.
 - These are incorrect: ~~twice more than~~, ~~three times more than~~

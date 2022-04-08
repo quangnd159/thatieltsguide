@@ -13,11 +13,11 @@ weight: 50
 toc: false
 ---
 
-{{< alert icon="🌱" context="success" >}}
-**(subject) be (numbers) respectively**
-{{< /alert >}}
+{{< spoiler text="🌱 Structure" >}}
+- (subject) be (numbers) respectively
+{{< /spoiler >}}
 
-{{< alert icon="💡" context="warning" >}}
+{{< alert icon="📝" >}}
 **NOTE:** Avoid using more than 3 numbers.
 {{< /alert >}}
 

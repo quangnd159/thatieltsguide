@@ -13,9 +13,9 @@ weight: 90
 toc: false
 ---
 
-{{< alert icon="🌱" context="success" >}}
+{{< spoiler text="🌱 Structure" >}}
 **(describe X). By contrast, the figure for Y be higher/lower, at (number)**
-{{< /alert >}}
+{{< /spoiler >}}
 
 **Examples**
 

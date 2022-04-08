@@ -13,9 +13,9 @@ weight: 290
 toc: false
 ---
 
-{{< alert icon="🌱" context="success" >}}
-**(subject) increase to (number), overtaking (subject)**
-{{< /alert >}}
+{{< spoiler text="🌱 Structure" >}}
+- (subject) increase to (number), overtaking (subject)
+{{< /spoiler >}}
 
 **Examples**
 

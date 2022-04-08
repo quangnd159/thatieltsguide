@@ -13,9 +13,9 @@ weight: 310
 toc: false
 ---
 
-{{< alert icon="🌱" context="success" >}}
-**(subject) trend verb  to..., which be (almost) equal to the (year) figure**
-{{< /alert >}}
+{{< spoiler text="🌱 Structure" >}}
+- (subject) trend verb  to..., which be (almost) equal to the (year) figure
+{{< /spoiler >}}
 
 **Examples**
 

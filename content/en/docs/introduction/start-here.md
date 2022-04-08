@@ -9,7 +9,7 @@ images: []
 menu:
   docs:
     parent: ""
-weight: 10
+weight: 5
 toc: false
 ---
 
@@ -20,3 +20,12 @@ To take mini lessons, you can visit [ai-eo.com](https://ai-eo.com), which I writ
 The point of this guide is to aid you in your practice. Gradually, though, it should be transferred into your head and transformed into skills. My hope is that one day you won't need this guide any more.
 
 IELTS needn’t be hard. With practice and patience, you’ll nail it. Good luck! 🍀
+
+#### Learning tips 💡
+
+The structures are hidden by default. Before revealing them, try to recall them first. This helps you remember them better. Try this 👇
+
+{{< spoiler text="☢️ When did the second world war start?" >}}
+1939 (and it ended in 1945)
+{{< /spoiler>}}
+
