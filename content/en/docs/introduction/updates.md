@@ -13,6 +13,8 @@ weight: 10
 toc: false
 ---
 
+🔃 Note that sometimes you need to refresh a page (`ctrl R` or `cmd R` on Mac) to see new changes.
+
 - April 2022
-	- Added `✨ Updates` page.
 	- Added toggle (spoiler) for structures.
+	- Added `✨ Updates` page.

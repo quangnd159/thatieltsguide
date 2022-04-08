@@ -21,7 +21,7 @@ The point of this guide is to aid you in your practice. Gradually, though, it sh
 
 IELTS needn’t be hard. With practice and patience, you’ll nail it. Good luck! 🍀
 
-#### Learning tips 💡
+#### Learning tip 💡
 
 The structures are hidden by default. Before revealing them, try to recall them first. This helps you remember them better. Try this 👇
 
