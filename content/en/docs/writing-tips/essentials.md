@@ -17,6 +17,10 @@ toc: true
 
 Good writing is clear writing. Do not use big words to impress. Do not try to write long sentences. Instead, try to explain your ideas as clearly as you can.
 
+### Be careful with big words
+
+Big words tend to need very specific contexts (e.g. _harmful_ vs. _pernicious_). They also often require appropriate styles and collocations. Generally, shorter words tend to be more natural.
+
 ### Avoid informal language
 
 Do not use informal words and expressions like _a lot of / lots of_, _a big fan of_, _kid_, _dad_, _mom_, _stuff_, _cool_ etc.

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "task-1/advanced-stuff/next come.md",
+            "file": "writing-tips/essentials.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "task-1/advanced-stuff/next come.md",
+                "file": "writing-tips/essentials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,13 +89,13 @@
   },
   "active": "2131a527222b5faa",
   "lastOpenFiles": [
+    "writing-tips/essentials.md",
     "task-1/advanced-stuff/next come.md",
     "task-1/advanced-stuff/time-place.md",
     "task-1/advanced-stuff/subject.md",
     "task-1/advanced-stuff/_index.md",
     "introduction/updates.md",
     "introduction/start-here.md",
-    "writing-tips/essentials.md",
     "task-2/stuff-you-gotta-know.md",
     "task-2/frequently-misspelled.md",
     "task-2/common-problems.md"
