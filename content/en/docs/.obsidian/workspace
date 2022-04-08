@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "writing-tips/essentials.md",
+            "file": "task-2/frequently-misspelled.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "writing-tips/essentials.md",
+                "file": "task-2/frequently-misspelled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "2131a527222b5faa",
   "lastOpenFiles": [
+    "task-2/frequently-misspelled.md",
+    "task-2/common-problems.md",
     "writing-tips/essentials.md",
     "task-1/advanced-stuff/next come.md",
     "task-1/advanced-stuff/time-place.md",
@@ -96,8 +98,6 @@
     "task-1/advanced-stuff/_index.md",
     "introduction/updates.md",
     "introduction/start-here.md",
-    "task-2/stuff-you-gotta-know.md",
-    "task-2/frequently-misspelled.md",
-    "task-2/common-problems.md"
+    "task-2/stuff-you-gotta-know.md"
   ]
 }

@@ -20,3 +20,5 @@ toc: false
 ~~slove~~ → **solve**
 
 ~~develope~~ → **develop**
+
+~~everyday~~ (adv) → **every day** (_everyday_ is an adjective)
