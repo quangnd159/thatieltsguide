@@ -13,4 +13,4 @@ weight: 999
 toc: true
 ---
 
-<iframe src="https://ai-eo.com/challenges/ielts/partone-2021.html"></iframe>
+<iframe src="https://ai-eo.com/challenges/ielts/partone-2021.html" style="overflow:hidden;height:600px;width:100%"></iframe>
