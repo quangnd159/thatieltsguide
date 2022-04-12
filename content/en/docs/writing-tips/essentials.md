@@ -21,6 +21,10 @@ Good writing is clear writing. Do not use big words to impress. Do not try to wr
 
 Big words tend to need very specific contexts (e.g. _harmful_ vs. _pernicious_). They also often require appropriate styles and collocations. Generally, shorter words tend to be more natural.
 
+### Word repetition is fine
+
+It's fine, folks. Calm down. Don't try to change the word "children" every time you need to use it in an essay. Children are children. They are not necessarily _minor_, or _junior_, or _kids_, or _juveniles_.
+
 ### Avoid informal language
 
 Do not use informal words and expressions like _a lot of / lots of_, _a big fan of_, _kid_, _dad_, _mom_, _stuff_, _cool_ etc.
