@@ -16,5 +16,6 @@ toc: false
 🔃 Note that sometimes you need to refresh a page (`ctrl R` or `cmd R` on Mac) to see new changes.
 
 - April 2022
-	- Added toggle (spoiler) for structures.
-	- Added `✨ Updates` page.
+  - Made menu collapsible to encourage search.
+  - Added toggle (spoiler) for structures.
+  - Added `✨ Updates` page.
