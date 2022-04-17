@@ -11,6 +11,7 @@ menu:
     parent: ""
 weight: 10
 toc: false
+plotly: true
 ---
 
 🔃 Note that sometimes you need to refresh a page (`ctrl R` or `cmd R` on Mac) to see new changes.
