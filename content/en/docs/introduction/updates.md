@@ -16,6 +16,10 @@ toc: false
 🔃 Note that sometimes you need to refresh a page (`ctrl R` or `cmd R` on Mac) to see new changes.
 
 - April 2022
+  - Added plotlyjs to draw charts
   - Made menu collapsible to encourage search.
   - Added toggle (spoiler) for structures.
   - Added `✨ Updates` page.
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/pie-holidaymakers.json" height="600px" >}}

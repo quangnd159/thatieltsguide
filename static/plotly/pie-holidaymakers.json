@@ -1,0 +1,72 @@
+{
+    "data": [
+        {
+            "labels": [
+                "Staying with family and friends",
+                "Hotels",
+                "Camping"
+            ],
+            "values": [
+                67,
+                26,
+                7
+            ],
+            "type": "pie",
+            "title": "1988",
+            "domain": {"row": 0, "column": 0},
+            "hoverinfo": "percent",
+            "direction": "clockwise",
+            "ascending": false,
+            "sort": false
+        },
+        {
+            "labels": [
+                "Staying with family and friends",
+                "Hotels",
+                "Camping"
+            ],
+            "values": [
+                59,
+                29,
+                12
+            ],
+            "type": "pie",
+            "title": "1998",
+            "domain": {"row": 0, "column": 1},
+            "hoverinfo": "percent",
+            "direction": "clockwise",
+            "ascending": false,
+            "sort": false
+        },
+        {
+            "labels": [
+                "Staying with family and friends",
+                "Hotels",
+                "Camping"
+            ],
+            "values": [
+                38,
+                48,
+                14
+            ],
+            "type": "pie",
+            "title": "2008",
+            "domain": {"row": 1, "column": 0},
+            "hoverinfo": "percent",
+            "direction": "clockwise",
+            "ascending": false,
+            "sort": false
+        }
+    ],
+    "layout":
+        {
+            "grid": {
+                "rows": 2,
+                "columns": 2
+            },
+            "paper_bgcolor": "rgba(0,0,0,0)",
+            "plot_bgcolor": "rgba(0,0,0,0)",
+            "font": {
+                "color": "gray"
+            }
+}}
