@@ -12,7 +12,12 @@
                 7
             ],
             "type": "pie",
-            "title": "1988",
+            "title": {
+                "text": "1988",
+                "font": {
+                    "size": 16
+                }
+            },
             "domain": {"row": 0, "column": 0},
             "hoverinfo": "percent",
             "direction": "clockwise",
@@ -31,7 +36,12 @@
                 12
             ],
             "type": "pie",
-            "title": "1998",
+            "title": {
+                "text": "1998",
+                "font": {
+                    "size": 16
+                }
+            },
             "domain": {"row": 0, "column": 1},
             "hoverinfo": "percent",
             "direction": "clockwise",
@@ -50,7 +60,12 @@
                 14
             ],
             "type": "pie",
-            "title": "2008",
+            "title": {
+                "text": "2008",
+                "font": {
+                    "size": 16
+                }
+            },
             "domain": {"row": 1, "column": 0},
             "hoverinfo": "percent",
             "direction": "clockwise",
@@ -79,5 +94,13 @@
             },
             "legend": {
                 "orientation": "h"
+            },
+            "modebar": {
+                "bgcolor": "rgba(0,0,0,0)"
             }
-}}
+},
+"config":
+{
+    "displayModeBar": false
+}
+}
