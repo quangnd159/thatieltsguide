@@ -68,5 +68,9 @@
             "plot_bgcolor": "rgba(0,0,0,0)",
             "font": {
                 "color": "gray"
+            },
+            "autosize": true,
+            "legend": {
+                "orientation": "h"
             }
 }}
