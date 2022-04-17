@@ -22,5 +22,4 @@ plotly: true
   - Added toggle (spoiler) for structures.
   - Added `✨ Updates` page.
 
-{{< load-plotly >}}
 {{< plotly json="/plotly/pie-holidaymakers.json" height="600px" >}}
