@@ -17,7 +17,8 @@ plotly: true
 🔃 Note that sometimes you need to refresh a page (`ctrl R` or `cmd R` on Mac) to see new changes.
 
 - April 2022
-  - Added plotlyjs to draw charts
+  - Added more content about percentages
+  - Added plotlyjs to draw charts (see a sample below)
   - Made menu collapsible to encourage search.
   - Added toggle (spoiler) for structures.
   - Added `✨ Updates` page.
