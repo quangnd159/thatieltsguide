@@ -22,4 +22,6 @@ plotly: true
   - Added toggle (spoiler) for structures.
   - Added `✨ Updates` page.
 
-{{< plotly json="/plotly/pie-holidaymakers.json" height="500px" >}}
+**The charts below show the proportion of holidaymakers using four different types of accommodation in three different years.**
+
+{{< plotly json="/plotly/pie-holidaymakers.json" height="550px" >}}
