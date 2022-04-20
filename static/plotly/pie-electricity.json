@@ -1,0 +1,52 @@
+{
+  "data": [
+      {
+          "labels": [
+              "Heating rooms, heating water",
+              "Ovens, kettles, washing machines",
+              "Lighting, TV, radio",
+              "Vacuum cleaners, food mixers, electric tools"
+          ],
+          "values": [
+              52.5,
+              17.5,
+              15,
+              15
+          ],
+          "type": "pie",
+          "xanchor": "center",
+          "hoverinfo": "label+percent",
+          "direction": "clockwise",
+          "ascending": false,
+          "sort": false
+      }
+  ],
+  "layout":
+      {
+        "title": {
+          "text": "What the electricity is used for",
+          "font": {
+              "size": 16
+          }
+      },
+          "paper_bgcolor": "rgba(0,0,0,0)",
+          "plot_bgcolor": "rgba(0,0,0,0)",
+          "font": {
+              "color": "gray"
+          },
+          "autosize": true,
+          "margin": {
+              "t": 50
+          },
+          "legend": {
+              "orientation": "h"
+          },
+          "modebar": {
+              "bgcolor": "rgba(0,0,0,0)"
+          }
+},
+"config":
+{
+  "displayModeBar": false
+}
+}

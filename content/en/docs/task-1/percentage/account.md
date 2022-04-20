@@ -11,6 +11,7 @@ menu:
     parent: "percentage"
 weight: 330
 toc: false
+plotly: true
 ---
 
 {{< spoiler text="🌱 Structure" >}}
@@ -27,3 +28,7 @@ _These occupations now account for 37. 6 percent of all workers._
 _Higher education accounts for about 13 percent of general fund expenditures_
 
 _Own-label products now account for more than 20% of sales in some European supermarkets._
+
+_Ovens, kettles and washing machines accounted for 17.5% of household electricity use._
+
+{{< plotly json="/plotly/pie-electricity.json" height="400px" >}}
