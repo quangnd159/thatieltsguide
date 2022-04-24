@@ -32,25 +32,24 @@
 #   url = "/blog/"
 #   weight = 20
 
-# [[main]]
-#   name = "Get Started"
-#   weight = 30
-#   identifier = "get-started"
-#   url = "/docs/prologue/introduction/"
+[[main]]
+  name = "Get Started"
+  weight = 30
+  identifier = "get-started"
+  url = "/docs/introduction/start-here/"
 
-# [[main]]
-#   name = "Quick Start"
-#   weight = 40
-#   identifier = "quick-start"
-#   url = "/docs/prologue/quick-start/"
-#   parent = "get-started"
+[[main]]
+  name = "Writing"
+  weight = 40
+  identifier = "writing"
+  url = "/docs/"
 
-# [[main]]
-#   name = "Tutorial"
-#   weight = 50
-#   identifier = "tutorial"
-#   url = "https://getdoks.org/tutorial/introduction/"
-#   parent = "get-started"
+[[main]]
+  name = "Task 1"
+  weight = 50
+  identifier = "task-1"
+  url = "/docs/task-1/describing-numbers/basics/"
+  parent = "writing"
 
 # [[social]]
 #   name = "GitHub"
