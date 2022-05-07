@@ -14,15 +14,19 @@ toc: false
 ---
 
 {{< spoiler text="🌱 Structure" >}}
+
 - (describe X), while the figure for Y be lower/higher, at (number)
-{{< /spoiler >}}
+  {{< /spoiler >}}
 
 {{< alert icon="📝" >}}
-**NOTE:** You can also compare three figures. See examples.
-{{< /alert >}}
+**NOTE:**
+
+- You can also compare three figures. See examples.
+- The `(describe X)` part can be written in different ways.
+  {{< /alert >}}
 
 **Examples**
 
 _In 2012, the number of burglaries was 1,400, while the figure for car theft was higher, at 2,800._
 
-_In 2012, the number of burglaries was 1,400, while the figure for car theft and robberies was higher, at 2,800 and 3,100 respectively._
+_In 2012, the number of burglaries was 1,400, while the figure for car theft and robbery was higher, at 2,800 and 3,100 respectively._
