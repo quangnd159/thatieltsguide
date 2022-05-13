@@ -10,24 +10,24 @@ menu:
   docs:
     parent: "task-2"
 weight: 360
-toc: true
+toc: false
 ---
 
 Each body paragraph (also called `supporting paragraph`) has a simple structure:
 
 {{< alert >}}
-- Topic sentence
-	- Supporting sentences
-{{< /alert >}}
+
+- Topic sentence - Supporting sentences
+  {{< /alert >}}
 
 The supporting sentences may include a combination of
 
 {{< alert >}}
+
 - an explanation or reasons
 - examples
-	- from knowledge or experience
+  - from knowledge or experience
 - an effect or consequence
 - specific aspects or details
-- comparison and contrast
-	- e.g. a development in time (past vs. present)
-{{< /alert >}}
+- comparison and contrast - e.g. a development in time (past vs. present)
+  {{< /alert >}}

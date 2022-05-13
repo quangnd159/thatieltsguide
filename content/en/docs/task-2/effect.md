@@ -10,14 +10,14 @@ menu:
   docs:
     parent: "task-2"
 weight: 390
-toc: true
+toc: false
 ---
 
 ## Useful expressions
 
 - As a result
 - mean
-	- This means that
-	- (statement), which means that
+  - This means that
+  - (statement), which means that
 - lead to
 - (statement), thereby V-ing (showing an effect)

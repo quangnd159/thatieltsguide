@@ -10,7 +10,7 @@ menu:
   docs:
     parent: "task-2"
 weight: 400
-toc: true
+toc: false
 ---
 
 ## Useful expressions
