@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "writing-tips/_index.md",
+            "file": "task-2/supporting.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "writing-tips/_index.md",
+                "file": "task-2/supporting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "2131a527222b5faa",
   "lastOpenFiles": [
-    "writing-tips/_index.md",
-    "writing-tips/essentials.md",
-    "introduction/updates.md",
-    "introduction/start-here.md",
-    "task-2/frequently-misspelled.md",
-    "task-2/common-problems.md",
-    "task-1/advanced-stuff/next come.md",
-    "task-1/advanced-stuff/time-place.md",
-    "task-1/advanced-stuff/subject.md",
-    "task-1/advanced-stuff/_index.md"
+    "task-2/supporting.md",
+    "task-2/linking.md",
+    "task-2/compare.md",
+    "task-2/specific.md",
+    "task-2/explain.md",
+    "task-2/example.md",
+    "task-2/effect.md",
+    "task-1/describing-numbers/the-figure.md",
+    "task-2/stuff-you-gotta-know.md",
+    "task-2/common-problems.md"
   ]
 }
