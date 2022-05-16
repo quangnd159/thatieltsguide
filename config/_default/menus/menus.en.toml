@@ -38,18 +38,24 @@
   identifier = "get-started"
   url = "/docs/introduction/start-here/"
 
-[[main]]
-  name = "Writing"
-  weight = 40
-  identifier = "writing"
-  url = "/docs/"
+# [[main]]
+#   name = "Writing"
+#   weight = 40
+#   identifier = "writing"
+#   url = "/docs/"
+
+# [[main]]
+#   name = "Task 1"
+#   weight = 50
+#   identifier = "task-1"
+#   url = "/docs/task-1/describing-numbers/basics/"
+#   parent = "writing"
 
 [[main]]
-  name = "Task 1"
-  weight = 50
-  identifier = "task-1"
-  url = "/docs/task-1/describing-numbers/basics/"
-  parent = "writing"
+  name = "Paragraph Planner"
+  weight = 60
+  identifier = "planner"
+  url = "https://planner.thatieltsguide.com"
 
 # [[social]]
 #   name = "GitHub"
