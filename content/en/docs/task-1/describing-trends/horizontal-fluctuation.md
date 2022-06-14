@@ -13,10 +13,13 @@ weight: 230
 toc: false
 ---
 
+KEYWORDS: describe, trend
+
 {{< spoiler text="🌱 Structure" >}}
+
 - (subject) fluctuate between... and...
 - there be fluctuation in (subject), between... and...
-{{< /spoiler >}}
+  {{< /spoiler >}}
 
 {{< alert icon="📝" >}}
 **NOTE:** _between (lowest value) and (highest value)_

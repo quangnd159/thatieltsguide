@@ -13,9 +13,12 @@ weight: 80
 toc: false
 ---
 
+KEYWORDS: compare, figure
+
 {{< spoiler text="🌱 Structure" >}}
+
 - (describe X). The figure for Y, on the other hand, be twice as high [, at (number)]
-{{< /spoiler >}}
+  {{< /spoiler >}}
 
 **Examples**
 

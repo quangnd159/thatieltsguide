@@ -13,10 +13,13 @@ weight: 86
 toc: false
 ---
 
+KEYWORDS: compare, figure
+
 {{< spoiler text="🌱 Structure" >}}
+
 - A be half of B
 - description of A, (which was) half of B.
-{{< /spoiler >}}
+  {{< /spoiler >}}
 
 **Examples**
 

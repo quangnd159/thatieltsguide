@@ -13,15 +13,19 @@ weight: 70
 toc: false
 ---
 
+KEYWORDS: compare, figure
+
 {{< spoiler text="🌱 Structure" >}}
+
 - A be twice as high as B [, at (number) and (number) respectively].
-{{< /spoiler >}}
+  {{< /spoiler >}}
 
 {{< alert icon="📝" >}}
 **NOTE:**
+
 - twice → three times → four times etc.
 - These are incorrect: ~~twice more than~~, ~~three times more than~~
-{{< /alert >}}
+  {{< /alert >}}
 
 **Examples**
 

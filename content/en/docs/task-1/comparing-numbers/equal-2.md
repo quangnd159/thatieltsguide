@@ -13,9 +13,12 @@ weight: 110
 toc: false
 ---
 
+KEYWORDS: compare, figure
+
 {{< spoiler text="🌱 Structure" >}}
+
 - X and Y be equal, at (number)
-{{< /spoiler >}}
+  {{< /spoiler >}}
 
 **Examples**
 

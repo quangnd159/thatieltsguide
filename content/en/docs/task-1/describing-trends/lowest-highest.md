@@ -13,9 +13,12 @@ weight: 320
 toc: false
 ---
 
+KEYWORDS: describe, trend
+
 {{< spoiler text="🌱 Structure" >}}
+
 - (subject) trend verb to (number), which was the lowest/highest figure in this (year) / among the (items/groups)
-{{< /spoiler >}}
+  {{< /spoiler >}}
 
 **Examples**
 

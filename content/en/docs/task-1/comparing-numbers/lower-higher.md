@@ -13,9 +13,12 @@ weight: 130
 toc: false
 ---
 
+KEYWORDS: compare, figure
+
 {{< spoiler text="🌱 Structure" >}}
+
 - X be higher/lower than Y [, at (number) and (number) respectively]
-{{< /spoiler >}}
+  {{< /spoiler >}}
 
 **Examples**
 

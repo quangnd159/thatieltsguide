@@ -13,16 +13,20 @@ weight: 190
 toc: false
 ---
 
+KEYWORDS: describe, trend
+
 {{< spoiler text="🌱 Structure" >}}
+
 - (subject) trend verb _by a factor of_
-{{< /spoiler >}}
+  {{< /spoiler >}}
 
 {{< alert icon="📝" >}}
 **NOTE:**
+
 - Can be used with both increase and decrease.
 - If A increased from 3 to 12, it increased by a factor of 4.
 - If A decreased from 45 to 5, it decreased by a factor of 9.
-{{< /alert >}}
+  {{< /alert >}}
 
 **Examples**
 

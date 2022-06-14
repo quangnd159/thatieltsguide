@@ -16,6 +16,8 @@ plotly: true
 
 🔃 Note that sometimes you need to refresh a page (`ctrl R` or `cmd R` on Mac) to see new changes.
 
+- June 2022
+  - Added keywords for easier lookup. You can type `compare` to find structures for comparison. You can also type multiple keywords, such as `compare trend`.
 - April 2022
   - Added more content about percentages
   - Added plotlyjs to draw charts (see a sample below)

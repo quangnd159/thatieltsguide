@@ -13,9 +13,12 @@ weight: 160
 toc: false
 ---
 
+KEYWORDS: describe, trend
+
 {{< spoiler text="🌱 Structure" >}}
+
 - there be a/an trend noun <u>of</u> (difference) <u>in</u> (subject) [,from... to...]
-{{< /spoiler >}}
+  {{< /spoiler >}}
 
 {{< alert icon="📝" >}}
 **NOTE:** Pay attention to the prepositions in this structure.

@@ -13,9 +13,13 @@ weight: 30
 toc: false
 ---
 
+KEYWORDS: describe, figure
+
 {{< spoiler text="🌱 Structure" >}}
+
 - (subject) be (number)
-{{< /spoiler >}}
+- (subject) stand at (number)
+  {{< /spoiler >}}
 
 **Examples**
 

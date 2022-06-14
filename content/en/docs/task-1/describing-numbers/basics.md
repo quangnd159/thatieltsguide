@@ -13,18 +13,19 @@ weight: 20
 toc: true
 ---
 
+KEYWORDS: describe, figure
+
 ## Referring to a number
 
 In this guide, when you see **(subject)**, it refers to the type of number.
 
-
 {{< alert >}}
+
 - the number of + plural
 - the amount of + uncountable noun
 - the percentage of + plural/uncountable noun
 - the figure for
-{{< /alert >}}
-
+  {{< /alert >}}
 
 **(subject)** can also be anything that means a number, an amount or a percentage.
 
@@ -40,7 +41,7 @@ In this guide, when you see **(subject)**, it refers to the type of number.
 ## List of trend verbs and nouns
 
 | Trend verb    | Trend noun                |
-|---------------|---------------------------|
+| ------------- | ------------------------- |
 | increase      | an increase               |
 | decrease      | a decrease                |
 | fluctuate     | fluctuation               |

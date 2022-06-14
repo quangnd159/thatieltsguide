@@ -13,9 +13,12 @@ weight: 310
 toc: false
 ---
 
+KEYWORDS: describe, trend
+
 {{< spoiler text="🌱 Structure" >}}
-- (subject) trend verb  to..., which be (almost) equal to the (year) figure
-{{< /spoiler >}}
+
+- (subject) trend verb to..., which be (almost) equal to the (year) figure
+  {{< /spoiler >}}
 
 **Examples**
 

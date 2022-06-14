@@ -13,15 +13,19 @@ weight: 210
 toc: false
 ---
 
+KEYWORDS: describe, trend
+
 {{< spoiler text="🌱 Structure" >}}
+
 - (subject) double/triple [from... to...]
-{{< /spoiler >}}
+  {{< /spoiler >}}
 
 {{< alert icon="📝" >}}
 **NOTE:**
+
 - This structure means "to become twice as much or as many", like [fold](../fold).
 - ❗️ These words, when they are [adjectives](../../comparing-numbers/double-adj), are used differently and mean different things.
-{{< /alert >}}
+  {{< /alert >}}
 
 **Examples**
 

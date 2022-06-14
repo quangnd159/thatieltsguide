@@ -13,9 +13,12 @@ weight: 150
 toc: false
 ---
 
+KEYWORDS: describe, trend
+
 {{< spoiler text="🌱 Structure" >}}
+
 - (subject) trend verb from... to...
-{{< /spoiler >}}
+  {{< /spoiler >}}
 
 {{< alert icon="📝" >}}
 **NOTE:** "from 80 to 110" = "by 30"

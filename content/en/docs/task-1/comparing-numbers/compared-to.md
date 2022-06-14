@@ -13,9 +13,12 @@ weight: 140
 toc: false
 ---
 
+KEYWORDS: compare, figure
+
 {{< spoiler text="🌱 Structure" >}}
+
 - (describe X), compared to (number) of/for/in/etc. Y
-{{< /spoiler >}}
+  {{< /spoiler >}}
 
 {{< alert icon="📝" >}}
 **NOTE:** The preposition depends on what Y is. Sometimes it isn't needed.

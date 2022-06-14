@@ -13,9 +13,12 @@ weight: 50
 toc: false
 ---
 
+KEYWORDS: describe, figure
+
 {{< spoiler text="🌱 Structure" >}}
+
 - (subject) be (numbers) respectively
-{{< /spoiler >}}
+  {{< /spoiler >}}
 
 {{< alert icon="📝" >}}
 **NOTE:** Avoid using more than 3 numbers.

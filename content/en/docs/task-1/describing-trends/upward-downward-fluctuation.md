@@ -13,9 +13,12 @@ weight: 240
 toc: false
 ---
 
+KEYWORDS: describe, trend
+
 {{< spoiler text="🌱 Structure" >}}
+
 - Although there be some fluctuation, (subject) increase/decrease from... to...
-{{< /spoiler >}}
+  {{< /spoiler >}}
 
 **Examples**
 

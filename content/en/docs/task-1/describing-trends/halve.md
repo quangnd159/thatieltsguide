@@ -13,9 +13,12 @@ weight: 220
 toc: false
 ---
 
+KEYWORDS: describe, trend
+
 {{< spoiler text="🌱 Structure" >}}
+
 - (subject) halve [from... to...]
-{{< /spoiler >}}
+  {{< /spoiler >}}
 
 {{< alert icon="📝" >}}
 **NOTE:** You can also write _decrease by 50%_ instead of _halve_

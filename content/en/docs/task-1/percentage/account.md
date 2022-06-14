@@ -14,6 +14,8 @@ toc: false
 plotly: true
 ---
 
+KEYWORDS: describe, percentage
+
 {{< spoiler text="🌱 Structure" >}}
 
 - (name of item/category) account for (number%) of (total)

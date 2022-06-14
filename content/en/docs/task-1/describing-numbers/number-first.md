@@ -13,9 +13,12 @@ weight: 60
 toc: false
 ---
 
+KEYWORDS: describe, figure
+
 {{< spoiler text="🌱 Structure" >}}
+
 - (number) suitable verb
-{{< /spoiler >}}
+  {{< /spoiler >}}
 
 {{< alert icon="📝" >}}
 **NOTE:** This is a very natural way to talk about numbers.

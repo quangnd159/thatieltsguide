@@ -13,16 +13,20 @@ weight: 200
 toc: false
 ---
 
+KEYWORDS: describe, trend
+
 {{< spoiler text="🌱 Structure" >}}
+
 - (subject) increase + twofold/threefold/etc.
-{{< /spoiler >}}
+  {{< /spoiler >}}
 
 {{< alert icon="📝" >}}
 **NOTE:**
+
 - Can only be used with increases.
 - If A is 5, and it increases to 15, can say it increases threefold.
 - You can use "a twofold/threefold/etc. increase" in the [trend noun](./../trend-noun) structure.
-{{< /alert >}}
+  {{< /alert >}}
 
 **Examples**
 

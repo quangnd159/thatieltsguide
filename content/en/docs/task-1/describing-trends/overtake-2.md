@@ -13,9 +13,12 @@ weight: 290
 toc: false
 ---
 
+KEYWORDS: describe, trend
+
 {{< spoiler text="🌱 Structure" >}}
+
 - (subject) increase to (number), overtaking (subject)
-{{< /spoiler >}}
+  {{< /spoiler >}}
 
 **Examples**
 

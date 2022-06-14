@@ -13,9 +13,12 @@ weight: 280
 toc: false
 ---
 
+KEYWORDS: describe, trend
+
 {{< spoiler text="🌱 Structure" >}}
+
 - (subject) overtake (subject) [in (time)] and reach (number) in (time)
-{{< /spoiler >}}
+  {{< /spoiler >}}
 
 {{< alert icon="📝" >}}
 **NOTE:** A overtaking B means A becomes greater than B.

@@ -20,12 +20,12 @@ A percentage is _the number, amount, rate of something, expressed as if it is pa
 ## Synonyms for "percentage"
 
 - percentage
-	- _the percentage of people who are poor_
-	- _the percentage of poor people_
+  - _the percentage of people who are poor_
+  - _the percentage of poor people_
 - proportion
-	- _the proportion of people who are poor_
-	- _the percentage of poor people_
+  - _the proportion of people who are poor_
+  - _the percentage of poor people_
 - rate
-	- _the rate of people who are poor_
-	- _the rate of poor people_
-	- _the rate of poverty_
+  - _the rate of people who are poor_
+  - _the rate of poor people_
+  - _the rate of poverty_

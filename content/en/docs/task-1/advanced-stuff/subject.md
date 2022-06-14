@@ -13,10 +13,13 @@ weight: 510
 toc: false
 ---
 
+KEYWORDS: describe, figure, trend
+
 {{< spoiler text="🌱 Structure" >}}
+
 - (subject) + stand at / be + (number)
 - (subject) + trend verb
-{{< /spoiler >}}
+  {{< /spoiler >}}
 
 **Examples from authentic sources**
 

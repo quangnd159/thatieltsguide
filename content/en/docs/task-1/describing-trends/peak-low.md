@@ -13,11 +13,14 @@ weight: 250
 toc: false
 ---
 
+KEYWORDS: describe, trend
+
 {{< spoiler text="🌱 Structure" >}}
+
 - (subject) peak at (number)
 - (subject) reach a peak of (number)
 - (subject) hit a low of (number)
-{{< /spoiler >}}
+  {{< /spoiler >}}
 
 **Examples**
 
@@ -26,4 +29,3 @@ _In 2006, the number of people who played tennis peaked at 9,000._
 _In 2006, the number of people who played tennis reached a peak of 9,000._
 
 _In 2012, the percentage of water used in agriculture hit a low of 24%._
-

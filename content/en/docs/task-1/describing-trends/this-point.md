@@ -13,9 +13,12 @@ weight: 170
 toc: false
 ---
 
+KEYWORDS: describe, trend
+
 {{< spoiler text="🌱 Structure" >}}
+
 - there be a/an upward/downward trend in (subject) until (time). At this point, the figure stand at (number)
-{{< /spoiler >}}
+  {{< /spoiler >}}
 
 {{< alert icon="📝" >}}
 **NOTE:** Make sure "stand" has correct form.

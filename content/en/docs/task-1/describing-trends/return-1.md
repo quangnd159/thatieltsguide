@@ -13,9 +13,12 @@ weight: 300
 toc: false
 ---
 
+KEYWORDS: describe, trend
+
 {{< spoiler text="🌱 Structure" >}}
+
 - (subject) trend verb back to the (year) figure of (number)
-{{< /spoiler >}}
+  {{< /spoiler >}}
 
 **Examples**
 

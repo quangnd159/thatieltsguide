@@ -13,6 +13,8 @@ weight: 120
 toc: false
 ---
 
+KEYWORDS: compare, figure, trend
+
 {{< spoiler text="🌱 Structure" >}}
 
 - (describe X), while the figure for Y be lower/higher, at (number)

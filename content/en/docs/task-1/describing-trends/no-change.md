@@ -13,9 +13,12 @@ weight: 270
 toc: false
 ---
 
+KEYWORDS: describe, trend
+
 {{< spoiler text="🌱 Structure" >}}
+
 - (subject) show no/little change [, standing at (number)]
-{{< /spoiler >}}
+  {{< /spoiler >}}
 
 {{< alert icon="📝" >}}
 **NOTE:** It's _no change_, **not** ~~a little change~~

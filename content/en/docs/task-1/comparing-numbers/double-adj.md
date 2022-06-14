@@ -13,18 +13,22 @@ weight: 85
 toc: false
 ---
 
+KEYWORDS: compare, figure
+
 {{< spoiler text="🌱 Structure" >}}
+
 - A be double B
 - description of A. This be double B.
 - description of A, (which was) double B.
-{{< /spoiler >}}
+  {{< /spoiler >}}
 
 {{< alert icon="📝" >}}
 **NOTE:**
+
 - This structure describes the same thing as the [twice](../twice-1) structure.
 - Besides _double_, we have _triple_ (x3) and _quadruple_ (x4).
 - ❗️ These words, when they are [verbs](../../describing-trends/double-verb), are used differently and mean different things.
-{{< /alert >}}
+  {{< /alert >}}
 
 **Examples**
 

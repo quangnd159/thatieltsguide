@@ -13,16 +13,20 @@ weight: 180
 toc: false
 ---
 
+KEYWORDS: describe, trend
+
 {{< spoiler text="🌱 Structure" >}}
+
 - (time) see + trend noun
-{{< /spoiler >}}
+  {{< /spoiler >}}
 
 {{< alert icon="📝" >}}
 **NOTE:**
+
 - The rest is similar to _trend noun_ structure.
 - (time) here must be a noun or a noun phrase.
 - Make sure "see" has correct form.
-{{< /alert >}}
+  {{< /alert >}}
 
 **Examples**
 
