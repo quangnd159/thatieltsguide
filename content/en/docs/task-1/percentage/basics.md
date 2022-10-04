@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   docs:
-    parent: "describing-trends"
+    parent: "percentage"
 weight: 320
 toc: false
 ---
