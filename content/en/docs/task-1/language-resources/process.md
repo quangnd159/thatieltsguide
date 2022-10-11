@@ -1,5 +1,5 @@
 ---
-title: "Process Diagram"
+title: "Process diagram 🐟"
 description: "Useful vocabulary for process diagrams"
 lead: ""
 date: 2022-10-05T10:28:37+07:00
