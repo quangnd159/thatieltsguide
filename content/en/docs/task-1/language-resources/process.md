@@ -15,6 +15,8 @@ toc: true
 
 ## Useful language for process diagrams
 
+`Keywords: Task 1 | Vocabulary`
+
 ### Introduction
 
 - The figure illustrates the process used to...

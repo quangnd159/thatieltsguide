@@ -12,8 +12,8 @@ description = "That IELTS Guide provides BS-free instructions and tips for IELTS
 ## Open Graph
 images = ["thatieltsguide.png"]
 ogLocale = "en_US"
-domainTLD = "doks.netlify.app"
-titleHome = "Doks Theme"
+domainTLD = "thatieltsguide.com"
+titleHome = "That IELTS Guide"
 
 ## Twitter Cards
 twitterSite = "@getdoks"
@@ -73,7 +73,7 @@ docsRepo = "https://github.com/h-enk/doks"
 docsRepoBranch = "master"
 docsRepoSubPath = ""
 editPage = false
-lastMod = false
+lastMod = true
 
 [options]
   lazySizes = true
@@ -82,12 +82,12 @@ lastMod = false
   flexSearch = true
   darkMode = true
   bootStrapJs = true
-  breadCrumb = false
+  breadCrumb = true
   highLight = true
   kaTex = false
   multilingualMode = false
   docsVersioning = false
-  fullWidth = false
+  fullWidth = true
 
 [menu]
   [menu.section]

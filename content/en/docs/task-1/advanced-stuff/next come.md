@@ -13,7 +13,7 @@ weight: 550
 toc: false
 ---
 
-KEYWORDS: compare, connect, trend
+`Keywords: compare, connect, trend`
 
 {{< spoiler text="🌱 Structure" >}}
 

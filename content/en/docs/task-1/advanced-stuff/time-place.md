@@ -13,7 +13,7 @@ weight: 520
 toc: false
 ---
 
-KEYWORDS: describe, trend
+`Keywords: describe, trend`
 
 {{< spoiler text="🌱 Structure" >}}
 
