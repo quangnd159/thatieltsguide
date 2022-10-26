@@ -19,4 +19,4 @@ toc: true
 
 ### Within and between sentences
 
-### With paragraphs
+### Between paragraphs
