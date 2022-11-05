@@ -20,11 +20,3 @@ The point of this guide is to aid you in your practice. Gradually, though, it sh
 IELTS needn’t be hard. With practice and patience, you’ll nail it. Good luck! 🍀
 
 Besides, you can visit [ielts.dangquang.xyz](https://ielts.dangquang.xyz) to read my notes on IELTS.
-
-#### Learning tip 💡
-
-The structures are hidden by default. Before revealing them, try to recall them first. This helps you remember them better. Try this 👇
-
-{{< spoiler text="☢️ When did the second world war start?" >}}
-1939 (and it ended in 1945)
-{{< /spoiler>}}
