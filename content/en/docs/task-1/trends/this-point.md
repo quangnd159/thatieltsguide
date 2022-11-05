@@ -1,0 +1,30 @@
+---
+title: "this point"
+description: ""
+lead: ""
+date: 2022-03-08T23:25:58+07:00
+lastmod: 2022-03-08T23:25:58+07:00
+draft: false
+images: []
+menu:
+  docs:
+    parent: "trends"
+weight: 170
+toc: false
+---
+
+KEYWORDS: describe, trend
+
+{{< alert icon="🌱" >}}
+**STRUCTURE**
+
+there be a/an upward/downward trend in (subject) until (time). At this point, the figure stand at (number)
+{{< /alert >}}
+
+{{< alert icon="📝" >}}
+**NOTE** Make sure "stand" has correct form.
+{{< /alert >}}
+
+**Examples**
+
+_There will be an upward trend in the amount of coal until 2030. At this point, the figure will stand at about 30g units._

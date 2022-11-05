@@ -20,7 +20,7 @@ If you type "increase", for example, you'll find the specific language to help y
 I hope you'll find this useful. 😙
 
 {{< alert icon="📝" >}}
-**NOTE:**
+**NOTE**
 
 The vocabulary and structures on the site are mostly extracted from model essays by reliable IELTS experts and authentic sources such as newspapers.
 {{< /alert >}}

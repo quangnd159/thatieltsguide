@@ -87,9 +87,9 @@ lastMod = true
   kaTex = false
   multilingualMode = false
   docsVersioning = false
-  fullWidth = true
+  fullWidth = false
 
 [menu]
   [menu.section]
-    auto = true
-    collapsibleSidebar = true
+    auto = false
+    collapsibleSidebar = false

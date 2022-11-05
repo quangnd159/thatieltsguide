@@ -11,11 +11,52 @@
   url = "/docs/task-1/"
 
 [[docs]]
-  name = "Describing numbers"
+  name = "🖼 Description"
   weight = 50
-  identifier = "describing-numbers"
-  url = "/docs/task-1/describing-numbers"
+  identifier = "description"
+  url = "/docs/task-1/description"
   parent = "task-1"
+
+[[docs]]
+  name = "⚔️ Comparison"
+  weight = 60
+  identifier = "comparison"
+  url = "/docs/task-1/comparison"
+  parent = "task-1" 
+
+[[docs]]
+  name = "〽️ Trends"
+  weight = 70
+  identifier = "trends"
+  url = "/docs/task-1/trends"
+  parent = "task-1" 
+
+[[docs]]
+  name = "% Percentage"
+  weight = 80
+  identifier = "percentage"
+  url = "/docs/task-1/percentage"
+  parent = "task-1" 
+
+[[docs]]
+  name = "🥇 Advanced"
+  weight = 90
+  identifier = "advanced-stuff"
+  url = "/docs/task-1/advanced-stuff"
+  parent = "task-1"
+
+[[docs]]
+  name = "🌳 Resources"
+  weight = 100
+  identifier = "language-resources"
+  url = "/docs/task-1/language-resources"
+  parent = "task-1" 
+
+[[docs]]
+  name = "Task 2"
+  weight = 110
+  identifier = "task-2"
+  url = "/docs/task-2/"
 
 # [[main]]
 #   name = "Docs"
@@ -48,7 +89,7 @@
 #   name = "Task 1"
 #   weight = 50
 #   identifier = "task-1"
-#   url = "/docs/task-1/describing-numbers/basics/"
+#   url = "/docs/task-1/description/basics/"
 #   parent = "writing"
 
 [[main]]

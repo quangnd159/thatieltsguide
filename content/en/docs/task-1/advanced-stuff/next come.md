@@ -15,14 +15,16 @@ toc: false
 
 `Keywords: compare, connect, trend`
 
-{{< spoiler text="🌱 Structure" >}}
+{{< alert icon="🌱" >}}
+**STRUCTURE**
 
-- (description of highest number). next come (subject/item), with (number)
-- (description of highest number). next come (subject/item), gerund (describing one number or change)
-  {{< /spoiler >}}
+(description of highest number). Next come (subject/item), with (number)
+
+(description of highest number). Next come (subject/item), gerund (describing one number or change)
+{{< /alert >}}
 
 {{< alert icon="📝" >}}
-**NOTE:**
+**NOTE**
 
 - The structure is used to describe the second highest number, sometimes even the third, and perhaps fourth, highest number. See examples.
 - "followed by" can be used to express the same thing, but it should be in the same sentence with the highest number. See samples.

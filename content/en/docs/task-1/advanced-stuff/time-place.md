@@ -15,14 +15,16 @@ toc: false
 
 `Keywords: describe, trend`
 
-{{< spoiler text="🌱 Structure" >}}
+{{< alert icon="🌱" >}}
+**STRUCTURE**
 
-- **(time) see + trend noun**
-- **(time) see + (subject) + bare trend verb**
-  {{< /spoiler >}}
+(time) see + trend noun
+
+(time) see + (subject) + bare trend verb
+{{< /alert >}}
 
 {{< alert icon="📝" >}}
-**NOTE:**
+**NOTE**
 
 - Use the preposition correctly.
 - A place can be the subject in this structure instead of (time). See samples.

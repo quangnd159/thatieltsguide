@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   docs:
-    parent: "describing-trends"
+    parent: "trends"
 weight: 1000
 toc: true
 ---

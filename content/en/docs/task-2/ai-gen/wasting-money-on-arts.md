@@ -1,8 +1,13 @@
 ---
 title: "Wasting money on arts?"
-toc: false
+description: ""
+lead: ""
+date: 2022-11-05
+lastmod: 2022-11-05
 draft: false
 ---
+
+💡 This is AI-generated content. Please read this [note](../ai.md) first.
 
 There are a few different ways to look at this issue. One perspective is that by investing in the arts, the government is actually promoting economic growth. The arts can **bring in tourist dollars**, and they can also create jobs for people in **the creative industries**.
 

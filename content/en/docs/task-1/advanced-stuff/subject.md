@@ -15,11 +15,13 @@ toc: false
 
 `Keywords: describe, figure, trend`
 
-{{< spoiler text="🌱 Structure" >}}
+{{< alert icon="🌱" >}}
+**STRUCTURE**
 
-- (subject) + stand at / be + (number)
-- (subject) + trend verb
-  {{< /spoiler >}}
+(subject) + stand at / be + (number)
+
+(subject) + trend verb
+{{< /alert >}}
 
 **Examples from authentic sources**
 

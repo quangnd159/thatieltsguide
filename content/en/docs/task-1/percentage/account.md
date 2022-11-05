@@ -16,10 +16,11 @@ plotly: true
 
 KEYWORDS: describe, percentage
 
-{{< spoiler text="🌱 Structure" >}}
+{{< alert icon="🌱" >}}
+**STRUCTURE**
 
 - (name of item/category) account for (number%) of (total)
-  {{< /spoiler >}}
+  {{< /alert >}}
 
 **Examples**
 
