@@ -42,3 +42,7 @@ Discipline is an ever increasing problem in modern schools. Some people think th
 ## Enrivonment
 
 Both governments and individuals are [spending vast amounts of money protecting animals and their habitat](ai-gen/protecting-animals-or-humans.md). This money could be better spent dealing with fundamental issues in society such as poverty and health care. To what extent do you agree?
+
+## People
+
+[It is important for people to take risks](ai-gen/taking-risks.md), both in their professional lives and their personal lives. Do you think the advantages of taking risks outweigh the disadvantages?
