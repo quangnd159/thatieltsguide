@@ -11,11 +11,11 @@ draft: false
 
 There are a few key dangers that children face when they are online:
 
-1. They can be targeted by paedophiles who may try to **groom them for sexual purposes**.
-2. They can **be targeted by bullies** who may try to humiliate or hurt them.
-3. They can **be exposed to inappropriate content**, such as pornography or violence.
-4. They can **accidentally give out personal information**, such as their home address or phone number, which could lead to them being contacted by strangers.
-5. They can become addicted to the internet and spend too much time online, which can **negatively impact** their school work, social life and health.
+1. They can be targeted by paedophiles who may try to <mark>groom them for sexual purposes</mark>.
+2. They can <mark>be targeted by bullies</mark> who may try to humiliate or hurt them.
+3. They can <mark>be exposed to inappropriate content</mark>, such as pornography or violence.
+4. They can <mark>accidentally give out personal information</mark>, such as their home address or phone number, which could lead to them being contacted by strangers.
+5. They can become addicted to the internet and spend too much time online, which can <mark>negatively impact</mark> their school work, social life and health.
 
 It is important that parents are aware of the dangers that children face online and take steps to protect them. Some things that parents can do include:
 
@@ -27,7 +27,7 @@ It is important that parents are aware of the dangers that children face online 
 
 There are a few things that parents can do in order to keep their children safe online. They should
 
-- Ensure that their children are using **age-appropriate** internet sites and apps
-- **Closely monitor** their children's online activity
+- Ensure that their children are using <mark>age-appropriate</mark> internet sites and apps
+- <mark>Closely monitor</mark> their children's online activity
 - Teach their children about online safety
 - Report any suspicious online activity to the authorities.
