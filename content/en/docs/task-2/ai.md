@@ -46,3 +46,5 @@ Both governments and individuals are [spending vast amounts of money protecting 
 ## People
 
 [It is important for people to take risks](ai-gen/taking-risks.md), both in their professional lives and their personal lives. Do you think the advantages of taking risks outweigh the disadvantages?
+
+In some countries, [many more people are choosing to live alone](ai-gen/living-alone.md) than in the past. Do you think this is a positive or negative development?

@@ -1,5 +1,5 @@
 ---
-title: "Wasting money on arts?"
+title: "Young children's Internet access"
 description: ""
 lead: ""
 date: 2022-11-05
