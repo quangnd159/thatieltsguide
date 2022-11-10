@@ -1,5 +1,5 @@
 ---
-title: "Wasting money on arts?"
+title: "More police on the streets?"
 description: ""
 lead: ""
 date: 2022-11-05

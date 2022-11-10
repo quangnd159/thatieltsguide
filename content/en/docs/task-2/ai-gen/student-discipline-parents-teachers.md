@@ -1,5 +1,5 @@
 ---
-title: "Wasting money on arts?"
+title: "Students' discipline: whose responsibility?"
 description: ""
 lead: ""
 date: 2022-11-05
