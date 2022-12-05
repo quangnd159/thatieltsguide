@@ -13,6 +13,8 @@ weight: 320
 toc: true
 ---
 
+🌟 Update: I've created a site for this resource. Check out: **[ielts1001.wordpress.com](https://ielts1001.wordpress.com/)**
+
 No AI will help us write essays in the actual exam, but it can be helpful when it comes to ideas and language usage. Here you'll find AI-generated content for different IELTS topics, and I must say, the language is pretty darn good! 😳 This, in combination with [daily Anki reviews](https://dangquang.xyz/p/srs/), will likely result in a huge boost in your essay writing skills.
 
 ⚠️ Note that not every idea is directly relevant to the task. Ultimately, you must learn to select ideas that best fit the topic you're dealing with.
